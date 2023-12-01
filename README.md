@@ -1,1 +1,1 @@
-# support_vector_machine_classfication
+The goal of this project is two class classification using support vector machine classifier. Dataset is included. Data is split into training and test sets and standardized. Using linear classifier 87.5% accuracy was achieved on training and 95% on test set. Using polynomial kernel non-linear classifier made and 96.5% accuracy was achieved on training and 95% on test set.
